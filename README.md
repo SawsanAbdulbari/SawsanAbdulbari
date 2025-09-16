@@ -16,7 +16,6 @@
 - **[DataDiwan](https://github.com/SawsanAbdulbari/datadiwan)** - Modern blog platform with TypeScript, Node.js, MongoDB, and JWT authentication
 - **ContentDiwan AI** - AI-powered content generation and management system
 - **AI Agents Framework** - Building intelligent automation with Python and AgentOps
-- **WhatsApp Chat Analysis** - Data analytics tool for messaging insights
 
 ## 💻 Tech Stack
 
